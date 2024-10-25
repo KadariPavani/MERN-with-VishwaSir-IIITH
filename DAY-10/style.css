@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+  text-align: center;
+  padding-bottom: 5px;
+}
+
+.p {
+  color: rgba(60, 58, 58, 0.943);
+
+}
